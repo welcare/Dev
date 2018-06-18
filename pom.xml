@@ -17,5 +17,6 @@
   </dependencies>
   <build>
     <finalName>data</finalName>
+    <defaultGoal>install</defaultGoal>
   </build>
 </project>
